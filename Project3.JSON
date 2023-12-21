@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",  
+      "fname": "Elijah",
+      "lname": "Williams",
+      "gender": "undisclosed",
+      "age": "23",
+      "isStudent": false
+    },
+    {
+      "id": "2", 
+      "fname": "Olivia",
+      "lname": "Taylor",
+      "gender": "male",
+      "age": "25",
+      "isStudent": true
+    },
+    { 
+      "id": "3",
+      "fname": "Billy",
+      "lname": "Bob",
+      "gender": "male",
+      "age": "27",
+      "isStudent": true
+    },
+    {
+      "id": "4",
+      "fname": "Lianne",
+      "lname": "Campbell",
+      "gender": "female",
+      "age": "31",
+      "isStudent": true
+    },
+    {
+      "id": "5",
+      "fname": "Ava",
+      "lname": "Brown",
+      "gender": "female",
+      "age": "32",
+      "isStudent": false
+    },
+    {
+      "id": "6",
+      "fname": "Mason",
+      "lname": "Smith",
+      "gender": "undisclosed",
+      "age": "19",
+      "isStudent": true
+    },
+    {
+      "id": "7",
+      "fname": "Lady",
+      "lname": "Leroy",
+      "gender": "non-binary",
+      "age": "32",
+      "isStudent": true
+    }
+  ]
